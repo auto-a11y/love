@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 100px;
+}
+.g{
+    /* background-color: aqua; */
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
