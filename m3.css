@@ -6,10 +6,15 @@
     font-weight: 600;
     font-size: 100px;
 }
+body{
+    background: url(image/494570367_999335202363143_2180163574318745973_n.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 .g{
-    /* background-color: aqua; */
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    transform: translateY(30px);
 }
